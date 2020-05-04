@@ -50,6 +50,7 @@
     "gatsby-source-medium": "^2.2.1",
     "gatsby-transformer-remark": "^2.7.1",
     "inquirer": "^7.0.4",
+    "netlify-cli": "^2.47.0",
     "prop-types": "^15.6.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
